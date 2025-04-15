@@ -41,42 +41,6 @@ Final-year Information Systems and Technology student at Institut Teknologi Band
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 🚀 Projects
-
-### LoakNow (June 2024)
-E-commerce platform for secondhand products built with React Native and Firebase, enabling seamless buying and selling of items.
-
-### SpotPark (June 2024)
-Online parking management system developed with Next.js and Firebase that optimizes parking space usage and streamlines reservation processes.
-[View Website](https://your-spotpark-website.com)
-
-### Smart Dormitory (December 2023)
-Dormitory management system built with Next.js and MongoDB that streamlines room allocation, payment processing, and resident communication.
-[View Website](https://your-smartdormitory-website.com)
-
-### Patient Queue Management System (November 2023)
-System designed to manage patient queues at hospitals using Next.js and Supabase, enhancing operational efficiency and patient satisfaction.
-[View Website](https://your-patientqueue-website.com)
-
-## 💼 Professional Experience
-
-### Software Engineer Intern | Damaresa Group (Oct 2024 - Jan 2025)
-- Developed responsive website with Flutter and Firebase
-- Improved UI responsiveness by 30%
-- Implemented adaptive layouts with 95% screen resolution compatibility
-- Collaborated with cross-functional team to deliver project within 3-month timeline
-
-### Software Engineer Intern | Krakatau IT (Jun 2024 - Aug 2024)
-- Led development of enterprise-level procurement management system
-- Built UI with React Native and Python backend with Firebase integration
-- Improved operational productivity by 20% through process automation
-- Reduced post-deployment bugs by 15% through comprehensive testing
-
-## 📚 Education
-
-**Institut Teknologi Bandung (ITB)** | Information Systems and Technology  
-*Aug 2021 - (expected) Aug 2025*
-
 ## 🌐 Languages
 - English (Professional Proficiency)
 - Bahasa Indonesia (Native)
